@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VehicleOwnerships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <VehicleOwnership>
+        <VehicleId>1</VehicleId>
+        <OwnerId>1</OwnerId>
+    </VehicleOwnership>
+    <VehicleOwnership>
+        <VehicleId>2</VehicleId>
+        <OwnerId>2</OwnerId>
+    </VehicleOwnership>
+    <VehicleOwnership>
+        <VehicleId>3</VehicleId>
+        <OwnerId>3</OwnerId>
+    </VehicleOwnership>
+    <VehicleOwnership>
+        <VehicleId>4</VehicleId>
+        <OwnerId>4</OwnerId>
+    </VehicleOwnership>
+    <VehicleOwnership>
+        <VehicleId>5</VehicleId>
+        <OwnerId>5</OwnerId>
+    </VehicleOwnership>
+    <VehicleOwnership>
+        <VehicleId>6</VehicleId>
+        <OwnerId>6</OwnerId>
+    </VehicleOwnership>
+    <VehicleOwnership>
+        <VehicleId>7</VehicleId>
+        <OwnerId>7</OwnerId>
+    </VehicleOwnership>
+    <VehicleOwnership>
+        <VehicleId>8</VehicleId>
+        <OwnerId>8</OwnerId>
+    </VehicleOwnership>
+    <VehicleOwnership>
+        <VehicleId>9</VehicleId>
+        <OwnerId>8</OwnerId>
+    </VehicleOwnership>
+</VehicleOwnerships>

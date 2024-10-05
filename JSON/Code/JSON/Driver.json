@@ -1,0 +1,101 @@
+[
+    {
+        "driverId": 1,
+        "lastName": "Doe",
+        "firstName": "Jane",
+        "patronymic": "Marie",
+        "dateOfBirth": "1993-08-25T00:00:00",
+        "registrationAddress": "789 Oak St, City, Country",
+        "licenseNumber": "1357924680"
+    },
+    {
+        "driverId": 2,
+        "lastName": "Williams",
+        "firstName": "Robert",
+        "patronymic": "David",
+        "dateOfBirth": "1988-04-12T00:00:00",
+        "registrationAddress": "101 Pine St, City, Country",
+        "licenseNumber": "2468135790"
+    },
+    {
+        "driverId": 3,
+        "lastName": "Johnson",
+        "firstName": "Emily",
+        "patronymic": "Anne",
+        "dateOfBirth": "1995-06-18T00:00:00",
+        "registrationAddress": "456 Elm St, City, Country",
+        "licenseNumber": "0987654321"
+    },
+    {
+        "driverId": 4,
+        "lastName": "Smith",
+        "firstName": "John",
+        "patronymic": "Michael",
+        "dateOfBirth": "1990-10-05T00:00:00",
+        "registrationAddress": "123 Main St, City, Country",
+        "licenseNumber": "1234567890"
+    },
+    {
+        "driverId": 5,
+        "lastName": "Brown",
+        "firstName": "Emma",
+        "patronymic": "Grace",
+        "dateOfBirth": "1987-12-30T00:00:00",
+        "registrationAddress": "222 Cedar St, City, Country",
+        "licenseNumber": "9876543210"
+    },
+    {
+        "driverId": 6,
+        "lastName": "Wilson",
+        "firstName": "Michael",
+        "patronymic": "Andrew",
+        "dateOfBirth": "1992-05-15T00:00:00",
+        "registrationAddress": "333 Maple St, City, Country",
+        "licenseNumber": "0123456789"
+    },
+    {
+        "driverId": 7,
+        "lastName": "Martinez",
+        "firstName": "Daniel",
+        "patronymic": "Carlos",
+        "dateOfBirth": "1991-03-08T00:00:00",
+        "registrationAddress": "555 Elm St, City, Country",
+        "licenseNumber": "6789054321"
+    },
+    {
+        "driverId": 8,
+        "lastName": "Anderson",
+        "firstName": "Jennifer",
+        "patronymic": "Nicole",
+        "dateOfBirth": "1987-09-20T00:00:00",
+        "registrationAddress": "444 Oak St, City, Country",
+        "licenseNumber": "5432109876"
+    },
+    {
+        "driverId": 9,
+        "lastName": "Artem",
+        "firstName": "Hrytsenko",
+        "patronymic": "Volodymyrovych",
+        "dateOfBirth": "1987-09-20T00:00:00",
+        "registrationAddress": "444 Oak St, City, Country",
+        "licenseNumber": "54321098955"
+    },
+    {
+        "driverId": 10,
+        "lastName": "Lee",
+        "firstName": "Ji",
+        "patronymic": "Sung",
+        "dateOfBirth": "1998-11-15T00:00:00",
+        "registrationAddress": "777 Pine St, City, Country",
+        "licenseNumber": "3698521470"
+    },
+    {
+        "driverId": 11,
+        "lastName": "Kim",
+        "firstName": "Seo",
+        "patronymic": "Hyun",
+        "dateOfBirth": "1985-07-22T00:00:00",
+        "registrationAddress": "888 Elm St, City, Country",
+        "licenseNumber": "2589631470"
+    }
+]

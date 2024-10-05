@@ -1,0 +1,42 @@
+[
+    {
+        "vehicleId": 1,
+        "driverId": 2
+    },
+    {
+        "vehicleId": 2,
+        "driverId": 1
+    },
+    {
+        "vehicleId": 3,
+        "driverId": 3
+    },
+    {
+        "vehicleId": 4,
+        "driverId": 4
+    },
+    {
+        "vehicleId": 5,
+        "driverId": 5
+    },
+    {
+        "vehicleId": 6,
+        "driverId": 6
+    },
+    {
+        "vehicleId": 7,
+        "driverId": 7
+    },
+    {
+        "vehicleId": 8,
+        "driverId": 8
+    },
+    {
+        "vehicleId": 9,
+        "driverId": 9
+    },
+    {
+        "vehicleId": 10,
+        "driverId": 10
+    }
+]

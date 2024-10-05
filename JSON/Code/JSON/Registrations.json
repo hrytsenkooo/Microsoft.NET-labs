@@ -1,0 +1,72 @@
+[
+    {
+        "vehicleId": 1,
+        "ownerId": 1,
+        "registrationDate": "2021-05-10T00:00:00",
+        "registrationLocation": "Department of Motor Vehicles",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 2,
+        "ownerId": 2,
+        "registrationDate": "2020-08-20T00:00:00",
+        "registrationLocation": "Local Registration Office",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 3,
+        "ownerId": 3,
+        "registrationDate": "2022-03-15T00:00:00",
+        "registrationLocation": "Department of Motor Vehicles",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 4,
+        "ownerId": 4,
+        "registrationDate": "2020-12-05T00:00:00",
+        "registrationLocation": "Local Registration Office",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 5,
+        "ownerId": 5,
+        "registrationDate": "2023-06-25T00:00:00",
+        "registrationLocation": "Department of Motor Vehicles",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 6,
+        "ownerId": 6,
+        "registrationDate": "2022-09-18T00:00:00",
+        "registrationLocation": "Local Registration Office",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 7,
+        "ownerId": 7,
+        "registrationDate": "2021-11-30T00:00:00",
+        "registrationLocation": "Department of Motor Vehicles",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 8,
+        "ownerId": 8,
+        "registrationDate": "2023-04-07T00:00:00",
+        "registrationLocation": "Local Registration Office",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 9,
+        "ownerId": 9,
+        "registrationDate": "2024-02-15T00:00:00",
+        "registrationLocation": "Department of Motor Vehicles",
+        "isRegistered": true
+    },
+    {
+        "vehicleId": 10,
+        "ownerId": 10,
+        "registrationDate": "2023-10-10T00:00:00",
+        "registrationLocation": "Local Registration Office",
+        "isRegistered": true
+    }
+]

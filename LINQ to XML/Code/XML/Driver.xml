@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Drivers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Driver>
+        <DriverId>1</DriverId>
+        <LastName>Doe</LastName>
+        <FirstName>Jane</FirstName>
+        <Patronymic>Marie</Patronymic>
+        <DateOfBirth>25.08.1993</DateOfBirth>
+        <RegistrationAddress>789 Oak St, City, Country</RegistrationAddress>
+        <LicenseNumber>1357924680</LicenseNumber>
+    </Driver>
+    <Driver>
+        <DriverId>2</DriverId>
+        <LastName>Williams</LastName>
+        <FirstName>Robert</FirstName>
+        <Patronymic>David</Patronymic>
+        <DateOfBirth>12.04.1988</DateOfBirth>
+        <RegistrationAddress>101 Pine St, City, Country</RegistrationAddress>
+        <LicenseNumber>2468135790</LicenseNumber>
+    </Driver>
+    <Driver>
+        <DriverId>3</DriverId>
+        <LastName>Johnson</LastName>
+        <FirstName>Emily</FirstName>
+        <Patronymic>Anne</Patronymic>
+        <DateOfBirth>18.06.1995</DateOfBirth>
+        <RegistrationAddress>456 Elm St, City, Country</RegistrationAddress>
+        <LicenseNumber>0987654321</LicenseNumber>
+    </Driver>
+    <Driver>
+        <DriverId>4</DriverId>
+        <LastName>Smith</LastName>
+        <FirstName>John</FirstName>
+        <Patronymic>Michael</Patronymic>
+        <DateOfBirth>05.10.1990</DateOfBirth>
+        <RegistrationAddress>123 Main St, City, Country</RegistrationAddress>
+        <LicenseNumber>1234567890</LicenseNumber>
+    </Driver>
+    <Driver>
+        <DriverId>5</DriverId>
+        <LastName>Brown</LastName>
+        <FirstName>Emma</FirstName>
+        <Patronymic>Grace</Patronymic>
+        <DateOfBirth>30.12.1987</DateOfBirth>
+        <RegistrationAddress>222 Cedar St, City, Country</RegistrationAddress>
+        <LicenseNumber>9876543210</LicenseNumber>
+    </Driver>
+    <Driver>
+        <DriverId>6</DriverId>
+        <LastName>Wilson</LastName>
+        <FirstName>Michael</FirstName>
+        <Patronymic>Andrew</Patronymic>
+        <DateOfBirth>15.05.1992</DateOfBirth>
+        <RegistrationAddress>333 Maple St, City, Country</RegistrationAddress>
+        <LicenseNumber>0123456789</LicenseNumber>
+    </Driver>
+    <Driver>
+        <DriverId>7</DriverId>
+        <LastName>Martinez</LastName>
+        <FirstName>Daniel</FirstName>
+        <Patronymic>Carlos</Patronymic>
+        <DateOfBirth>08.03.1991</DateOfBirth>
+        <RegistrationAddress>555 Elm St, City, Country</RegistrationAddress>
+        <LicenseNumber>6789054321</LicenseNumber>
+    </Driver>
+    <Driver>
+        <DriverId>8</DriverId>
+        <LastName>Anderson</LastName>
+        <FirstName>Jennifer</FirstName>
+        <Patronymic>Nicole</Patronymic>
+        <DateOfBirth>20.09.1987</DateOfBirth>
+        <RegistrationAddress>444 Oak St, City, Country</RegistrationAddress>
+        <LicenseNumber>5432109876</LicenseNumber>
+    </Driver>
+    <Driver>
+        <DriverId>9</DriverId>
+        <LastName>Artem</LastName>
+        <FirstName>Hrytsenko</FirstName>
+        <Patronymic>Volodymyrovych</Patronymic>
+        <DateOfBirth>20.09.1987</DateOfBirth>
+        <RegistrationAddress>444 Oak St, City, Country</RegistrationAddress>
+        <LicenseNumber>54321098955</LicenseNumber>
+    </Driver>
+</Drivers>

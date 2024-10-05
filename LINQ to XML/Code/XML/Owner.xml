@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Owners xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Owner>
+        <OwnerId>1</OwnerId>
+        <LastName>Smith</LastName>
+        <FirstName>John</FirstName>
+        <Patronymic>Michael</Patronymic>
+        <DateOfBirth>15.10.1985</DateOfBirth>
+        <RegistrationAddress>123 Main St, City, Country</RegistrationAddress>
+        <LicenseNumber>1234567890</LicenseNumber>
+    </Owner>
+    <Owner>
+        <OwnerId>2</OwnerId>
+        <LastName>Johnson</LastName>
+        <FirstName>Emily</FirstName>
+        <Patronymic>Anne</Patronymic>
+        <DateOfBirth>20.05.1990</DateOfBirth>
+        <RegistrationAddress>456 Elm St, City, Country</RegistrationAddress>
+        <LicenseNumber>0987654321</LicenseNumber>
+    </Owner>
+    <Owner>
+        <OwnerId>3</OwnerId>
+        <LastName>Williams</LastName>
+        <FirstName>David</FirstName>
+        <Patronymic>Robert</Patronymic>
+        <DateOfBirth>25.08.1983</DateOfBirth>
+        <RegistrationAddress>789 Oak St, City, Country</RegistrationAddress>
+        <LicenseNumber>1357924680</LicenseNumber>
+    </Owner>
+    <Owner>
+        <OwnerId>4</OwnerId>
+        <LastName>Brown</LastName>
+        <FirstName>Sarah</FirstName>
+        <Patronymic>Elizabeth</Patronymic>
+        <DateOfBirth>10.12.1975</DateOfBirth>
+        <RegistrationAddress>101 Pine St, City, Country</RegistrationAddress>
+        <LicenseNumber>2468135790</LicenseNumber>
+    </Owner>
+    <Owner>
+        <OwnerId>5</OwnerId>
+        <LastName>Wilson</LastName>
+        <FirstName>Jessica</FirstName>
+        <Patronymic>Marie</Patronymic>
+        <DateOfBirth>05.06.1992</DateOfBirth>
+        <RegistrationAddress>222 Cedar St, City, Country</RegistrationAddress>
+        <LicenseNumber>9876543210</LicenseNumber>
+    </Owner>
+    <Owner>
+        <OwnerId>6</OwnerId>
+        <LastName>Taylor</LastName>
+        <FirstName>Michael</FirstName>
+        <Patronymic>Andrew</Patronymic>
+        <DateOfBirth>15.04.1988</DateOfBirth>
+        <RegistrationAddress>333 Maple St, City, Country</RegistrationAddress>
+        <LicenseNumber>0123456789</LicenseNumber>
+    </Owner>
+    <Owner>
+        <OwnerId>7</OwnerId>
+        <LastName>Anderson</LastName>
+        <FirstName>Jennifer</FirstName>
+        <Patronymic>Nicole</Patronymic>
+        <DateOfBirth>20.09.1987</DateOfBirth>
+        <RegistrationAddress>444 Oak St, City, Country</RegistrationAddress>
+        <LicenseNumber>5432109876</LicenseNumber>
+    </Owner>
+    <Owner>
+        <OwnerId>8</OwnerId>
+        <LastName>Martinez</LastName>
+        <FirstName>Daniel</FirstName>
+        <Patronymic>Carlos</Patronymic>
+        <DateOfBirth>08.03.1991</DateOfBirth>
+        <RegistrationAddress>555 Elm St, City, Country</RegistrationAddress>
+        <LicenseNumber>6789054321</LicenseNumber>
+    </Owner>
+</Owners>

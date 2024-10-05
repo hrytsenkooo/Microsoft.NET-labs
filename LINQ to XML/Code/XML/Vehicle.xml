@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vehicles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Vehicle>
+        <VehicleId>1</VehicleId>
+        <Brand>Toyota</Brand>
+        <Manufacturer>Toyota Motor Corporation</Manufacturer>
+        <Model>Camry</Model>
+        <BodyType>Sedan</BodyType>
+        <YearOfManufacture>2020</YearOfManufacture>
+        <ChassisNumber>JT2BF22KX00765432</ChassisNumber>
+        <Color>Black</Color>
+        <LicensePlate>ABC123</LicensePlate>
+        <TechnicalCondition>Good</TechnicalCondition>
+    </Vehicle>
+    <Vehicle>
+        <VehicleId>2</VehicleId>
+        <Brand>Honda</Brand>
+        <Manufacturer>Honda Motor Co., Ltd.</Manufacturer>
+        <Model>Civic</Model>
+        <BodyType>Sedan</BodyType>
+        <YearOfManufacture>2018</YearOfManufacture>
+        <ChassisNumber>2HGFC2F58JH532148</ChassisNumber>
+        <Color>Silver</Color>
+        <LicensePlate>XYZ789</LicensePlate>
+        <TechnicalCondition>Excellent</TechnicalCondition>
+    </Vehicle>
+    <Vehicle>
+        <VehicleId>3</VehicleId>
+        <Brand>Ford</Brand>
+        <Manufacturer>Ford Motor Company</Manufacturer>
+        <Model>F-150</Model>
+        <BodyType>Truck</BodyType>
+        <YearOfManufacture>2019</YearOfManufacture>
+        <ChassisNumber>1FTFW1EF8KFA12345</ChassisNumber>
+        <Color>Blue</Color>
+        <LicensePlate>DEF456</LicensePlate>
+        <TechnicalCondition>Good</TechnicalCondition>
+    </Vehicle>
+    <Vehicle>
+        <VehicleId>4</VehicleId>
+        <Brand>Chevrolet</Brand>
+        <Manufacturer>General Motors Company</Manufacturer>
+        <Model>Camaro</Model>
+        <BodyType>Coupe</BodyType>
+        <YearOfManufacture>2021</YearOfManufacture>
+        <ChassisNumber>2G1FA1ED7A9725478</ChassisNumber>
+        <Color>Red</Color>
+        <LicensePlate>GHI789</LicensePlate>
+        <TechnicalCondition>Excellent</TechnicalCondition>
+    </Vehicle>
+    <Vehicle>
+        <VehicleId>5</VehicleId>
+        <Brand>BMW</Brand>
+        <Manufacturer>Bayerische Motoren Werke AG</Manufacturer>
+        <Model>X5</Model>
+        <BodyType>SUV</BodyType>
+        <YearOfManufacture>2017</YearOfManufacture>
+        <ChassisNumber>5UXKR6C56H0U24876</ChassisNumber>
+        <Color>White</Color>
+        <LicensePlate>JKL012</LicensePlate>
+        <TechnicalCondition>Good</TechnicalCondition>
+    </Vehicle>
+    <Vehicle>
+        <VehicleId>6</VehicleId>
+        <Brand>Mercedes-Benz</Brand>
+        <Manufacturer>Mercedes-Benz AG</Manufacturer>
+        <Model>E-Class</Model>
+        <BodyType>Sedan</BodyType>
+        <YearOfManufacture>2022</YearOfManufacture>
+        <ChassisNumber>WDDZF8EB7KA525623</ChassisNumber>
+        <Color>Gray</Color>
+        <LicensePlate>MNO345</LicensePlate>
+        <TechnicalCondition>Excellent</TechnicalCondition>
+    </Vehicle>
+    <Vehicle>
+        <VehicleId>7</VehicleId>
+        <Brand>Audi</Brand>
+        <Manufacturer>Audi AG</Manufacturer>
+        <Model>A4</Model>
+        <BodyType>Sedan</BodyType>
+        <YearOfManufacture>2016</YearOfManufacture>
+        <ChassisNumber>WAUENAF4XHN011235</ChassisNumber>
+        <Color>Black</Color>
+        <LicensePlate>PQR678</LicensePlate>
+        <TechnicalCondition>Good</TechnicalCondition>
+    </Vehicle>
+    <Vehicle>
+        <VehicleId>8</VehicleId>
+        <Brand>Tesla</Brand>
+        <Manufacturer>Tesla, Inc.</Manufacturer>
+        <Model>Model 3</Model>
+        <BodyType>Electric Sedan</BodyType>
+        <YearOfManufacture>2023</YearOfManufacture>
+        <ChassisNumber>5YJ3E1EB5NF105256</ChassisNumber>
+        <Color>Blue</Color>
+        <LicensePlate>STU901</LicensePlate>
+        <TechnicalCondition>Awful</TechnicalCondition>
+    </Vehicle>
+    <Vehicle>
+        <VehicleId>9</VehicleId>
+        <Brand>Volkswagen</Brand>
+        <Manufacturer>Volkswagen Group</Manufacturer>
+        <Model>Golf</Model>
+        <BodyType>Hatchback</BodyType>
+        <YearOfManufacture>2015</YearOfManufacture>
+        <ChassisNumber>WVWZZZ1KZ4U123456</ChassisNumber>
+        <Color>Blue</Color>
+        <LicensePlate>XYZ789</LicensePlate>
+        <TechnicalCondition>Excellent</TechnicalCondition>
+    </Vehicle>
+</Vehicles>

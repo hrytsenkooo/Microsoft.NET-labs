@@ -1,0 +1,92 @@
+[
+    {
+        "ownerId": 1,
+        "lastName": "Smith",
+        "firstName": "John",
+        "patronymic": "Michael",
+        "dateOfBirth": "1985-10-15T00:00:00",
+        "registrationAddress": "123 Main St, City, Country",
+        "licenseNumber": "1234567890"
+    },
+    {
+        "ownerId": 2,
+        "lastName": "Johnson",
+        "firstName": "Emily",
+        "patronymic": "Anne",
+        "dateOfBirth": "1990-05-20T00:00:00",
+        "registrationAddress": "456 Elm St, City, Country",
+        "licenseNumber": "0987654321"
+    },
+    {
+        "ownerId": 3,
+        "lastName": "Williams",
+        "firstName": "David",
+        "patronymic": "Robert",
+        "dateOfBirth": "1983-08-25T00:00:00",
+        "registrationAddress": "789 Oak St, City, Country",
+        "licenseNumber": "1357924680"
+    },
+    {
+        "ownerId": 4,
+        "lastName": "Brown",
+        "firstName": "Sarah",
+        "patronymic": "Elizabeth",
+        "dateOfBirth": "1975-12-10T00:00:00",
+        "registrationAddress": "101 Pine St, City, Country",
+        "licenseNumber": "2468135790"
+    },
+    {
+        "ownerId": 5,
+        "lastName": "Wilson",
+        "firstName": "Jessica",
+        "patronymic": "Marie",
+        "dateOfBirth": "1992-06-05T00:00:00",
+        "registrationAddress": "222 Cedar St, City, Country",
+        "licenseNumber": "9876543210"
+    },
+    {
+        "ownerId": 6,
+        "lastName": "Taylor",
+        "firstName": "Michael",
+        "patronymic": "Andrew",
+        "dateOfBirth": "1988-04-15T00:00:00",
+        "registrationAddress": "333 Maple St, City, Country",
+        "licenseNumber": "0123456789"
+    },
+    {
+        "ownerId": 7,
+        "lastName": "Anderson",
+        "firstName": "Jennifer",
+        "patronymic": "Nicole",
+        "dateOfBirth": "1987-09-20T00:00:00",
+        "registrationAddress": "444 Oak St, City, Country",
+        "licenseNumber": "5432109876"
+    },
+    {
+        "ownerId": 8,
+        "lastName": "Martinez",
+        "firstName": "Daniel",
+        "patronymic": "Carlos",
+        "dateOfBirth": "1991-03-08T00:00:00",
+        "registrationAddress": "555 Elm St, City, Country",
+        "licenseNumber": "6789054321"
+    },
+    {
+        "ownerId": 9,
+        "lastName": "Lee",
+        "firstName": "Seo",
+        "patronymic": "Hyun",
+        "dateOfBirth": "1989-11-25T00:00:00",
+        "registrationAddress": "666 Maple St, City, Country",
+        "licenseNumber": "3698521470"
+    },
+    {
+        "ownerId": 10,
+        "lastName": "Kim",
+        "firstName": "Ji",
+        "patronymic": "Sung",
+        "dateOfBirth": "1995-07-30T00:00:00",
+        "registrationAddress": "777 Elm St, City, Country",
+        "licenseNumber": "2589631470"
+    }
+]

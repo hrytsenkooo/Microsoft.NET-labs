@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VehicleRegistrations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Registration>
+        <VehicleId>1</VehicleId>
+        <OwnerId>1</OwnerId>
+        <RegistrationDate>10.05.2021</RegistrationDate>
+        <RegistrationLocation>Department of Motor Vehicles</RegistrationLocation>
+        <IsRegistered>true</IsRegistered>
+    </Registration>
+    <Registration>
+        <VehicleId>2</VehicleId>
+        <OwnerId>2</OwnerId>
+        <RegistrationDate>20.08.2020</RegistrationDate>
+        <RegistrationLocation>Local Registration Office</RegistrationLocation>
+        <IsRegistered>true</IsRegistered>
+    </Registration>
+    <Registration>
+        <VehicleId>3</VehicleId>
+        <OwnerId>3</OwnerId>
+        <RegistrationDate>15.03.2022</RegistrationDate>
+        <RegistrationLocation>Department of Motor Vehicles</RegistrationLocation>
+        <IsRegistered>true</IsRegistered>
+    </Registration>
+    <Registration>
+        <VehicleId>4</VehicleId>
+        <OwnerId>4</OwnerId>
+        <RegistrationDate>05.12.2020</RegistrationDate>
+        <RegistrationLocation>Local Registration Office</RegistrationLocation>
+        <IsRegistered>true</IsRegistered>
+    </Registration>
+    <Registration>
+        <VehicleId>5</VehicleId>
+        <OwnerId>5</OwnerId>
+        <RegistrationDate>25.06.2023</RegistrationDate>
+        <RegistrationLocation>Department of Motor Vehicles</RegistrationLocation>
+        <IsRegistered>true</IsRegistered>
+    </Registration>
+    <Registration>
+        <VehicleId>6</VehicleId>
+        <OwnerId>6</OwnerId>
+        <RegistrationDate>18.09.2022</RegistrationDate>
+        <RegistrationLocation>Local Registration Office</RegistrationLocation>
+        <IsRegistered>true</IsRegistered>
+    </Registration>
+    <Registration>
+        <VehicleId>7</VehicleId>
+        <OwnerId>7</OwnerId>
+        <RegistrationDate>30.11.2021</RegistrationDate>
+        <RegistrationLocation>Department of Motor Vehicles</RegistrationLocation>
+        <IsRegistered>true</IsRegistered>
+    </Registration>
+    <Registration>
+        <VehicleId>8</VehicleId>
+        <OwnerId>8</OwnerId>
+        <RegistrationDate>07.04.2023</RegistrationDate>
+        <RegistrationLocation>Local Registration Office</RegistrationLocation>
+        <IsRegistered>true</IsRegistered>
+    </Registration>
+</VehicleRegistrations>

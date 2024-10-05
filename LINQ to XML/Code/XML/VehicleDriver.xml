@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VehicleDrivers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <VehicleDriver>
+        <VehicleId>1</VehicleId>
+        <DriverId>2</DriverId>
+    </VehicleDriver>
+    <VehicleDriver>
+        <VehicleId>2</VehicleId>
+        <DriverId>1</DriverId>
+    </VehicleDriver>
+    <VehicleDriver>
+        <VehicleId>3</VehicleId>
+        <DriverId>3</DriverId>
+    </VehicleDriver>
+    <VehicleDriver>
+        <VehicleId>4</VehicleId>
+        <DriverId>4</DriverId>
+    </VehicleDriver>
+    <VehicleDriver>
+        <VehicleId>5</VehicleId>
+        <DriverId>5</DriverId>
+    </VehicleDriver>
+    <VehicleDriver>
+        <VehicleId>6</VehicleId>
+        <DriverId>6</DriverId>
+    </VehicleDriver>
+    <VehicleDriver>
+        <VehicleId>7</VehicleId>
+        <DriverId>7</DriverId>
+    </VehicleDriver>
+    <VehicleDriver>
+        <VehicleId>8</VehicleId>
+        <DriverId>8</DriverId>
+    </VehicleDriver>
+</VehicleDrivers>
